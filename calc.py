@@ -8,9 +8,8 @@ from tkinter import *
 
 root = Tk()
 root.title("GUI CALCULATOR")
+root.configure(background="light blue")
 # root.geometry("900x800")
-
-
 
 
 def click(n):
